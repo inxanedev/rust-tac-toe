@@ -1,5 +1,5 @@
 [package]
-name = "havinfun"
+name = "tictactoe"
 version = "0.1.0"
 authors = ["inxane"]
 edition = "2018"
